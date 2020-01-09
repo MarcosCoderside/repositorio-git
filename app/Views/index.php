@@ -13,6 +13,16 @@
       .hover-links:hover{
         color:#000 !important;
     }
+
+    .coluna-principal{
+        float:left;
+        width:44%;
+    }
+
+    .sub-video{
+        float:left;
+        width:31%;
+    }
   </style>
   
   </head>
@@ -53,7 +63,7 @@
             </form>
         </nav>
         
-    <div class="row">
+<div class="row">
         <div class="jumbotron" style="width:100%;padding:4rem 27rem;margin:20px 17px"></div>
             
             <div class="col" style="border-right:1px solid #ccc;">
@@ -132,6 +142,181 @@
         
     </div>
 </div>
+<div class="row" style="margin:0 10px;">
+    <div class="col">
+        <div style="width:100%;height:200px;background-color:#000;">
+        </div>
+        <h5 class="h5 text-center" style="color:#cd150c;padding:0 10px;">Lorem Ipsum is simply dummy text of the printing and typesetting industry.  </h5>
+    </div>
+    <div class="col">
+    <div style="width:100%;height:200px;background-color:#000;">
+        </div>
+        <h5 class="h5 text-center" style="color:#359e00">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+    </div>
+    <div class="col">
+    <div style="width:100%;height:200px;background-color:#000;">
+        </div>
+        <h5 class="h5 text-center" style="color:#ff8100">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</h5>
+    </div>
+</div>
+
+<div class="row" style="margin:30px 10px;">
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#cd150c;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#359e00;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#ff8100;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+</div>
+
+
+<div class="row" style="margin:30px 10px;">
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#cd150c;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#359e00;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#ff8100;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+</div>
+
+
+<div class="row" style="margin:30px 10px;">
+    <div class="col">
+        <h6 class="paragraph" style="color:#cd150c;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</h6>    
+    </div>
+
+    <div class="col">
+        <h6 class="paragraph" style="color:#359e00;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</h6>        
+    </div>
+
+    <div class="col">
+                <h6 class="paragraph" style="color:#ff8100;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</h6>
+        
+</div>
+
+
+<div class="row" style="margin:30px 10px;">
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#cd150c;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#359e00;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#ff8100;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+</div>
+
+<div class="row" style="margin:30px 10px;">
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#cd150c;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#359e00;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+
+    <div class="col">
+        <media class="media">
+            <div style="width:100px;height:100px; background-color:#000;"></div>
+            <div class="media-body">
+                <p class="paragraph" style="color:#ff8100;padding:0 10px;font-weight:600 !important;">Lorem Ipsum is simply dummy text of the printing and typesetting industry</p>
+            </div>
+        </media>
+    </div>
+</div>
+
+    <div class="header">
+            <h2 class="h2" style="text-transform:uppercase;color:#333;font-weight:700">Vídeos</h2>
+            <div style="width:65%;border-bottom:4px solid red;"></div>
+            <div style="border-bottom:2px solid #ccc;margin-bottom:1rem;width:983%;"></div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>  
+          <div class="col">
+               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+          </div>     
+        </div>
+</div>
+                
+        </div>  
+    </div>
+
+
+
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
