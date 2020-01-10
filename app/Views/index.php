@@ -26,7 +26,7 @@
   </style>
   
   </head>
-  <body>
+  <body style="line-height:17px !important">
       
    <div class="container-fluid">
         <nav class="nav" style="padding:25px 0px; background-color:#ffffff">
@@ -294,26 +294,97 @@
 </div>
 
     <div class="header">
-            <h2 class="h2" style="text-transform:uppercase;color:#333;font-weight:700">Vídeos</h2>
-            <div style="width:65%;border-bottom:4px solid red;"></div>
-            <div style="border-bottom:2px solid #ccc;margin-bottom:1rem;width:983%;"></div>
+        <h2 class="h2" style="text-transform:uppercase;color:#333;font-weight:700">Vídeos</h2>
+        <div style="width:65%;border-bottom:4px solid red;"></div>
+        <div style="border-bottom:2px solid #ccc;margin-bottom:1rem;width:1054%;"></div>
+    </div>  
+
+    <div class="row" style="margin-left:7px;">
+            <div class="col">
+                                
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </div>  
+            <div class="col">
+                <iframe width="275px" height="156px" style="padding:0px;" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+                <iframe width="275px" height="156px" style="padding:0px;" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+                <iframe width="275px" height="156px" style="padding:0px;"  src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+                <iframe width="275px" height="156px" style="padding:0px;" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
+            </div>     
+            </div>
+        </div>            
+    </div> 
+
+    <header class="header" style="color:red; font-weight:bold;margin-left:80px;margin-bottom:30px;font-size:30px;">
+            globoplay<span style="margin-left:25px;color:#000;font-weight:bold;font-size:17px;margin-right:60px">Experimente grátis por 7 dias e descubra novos conteúdos</span>
+            <a  style="background-color:red;padding:10px;color:#fff;text-decoration:none;font-size:1rem;margin-left:231px" href="">Assista em 7 dias</a>
+    </header>
+
+    <div class="row" style="margin-left:65px">
+        <div class="col">
+            <div class="bg-success" style="height:150px;width:100px;">
+            </div>
+        </div>
+
+        <div class="col">
+            
+        <div class="bg-warning" style="height:150px;width:100px;">
+            </div>  
+        </div>
+
+        <div class="col">
+                  
+            <div class="bg-dark" style="height:150px;width:100px;">
+            </div>  
+        </div>
+
+        <div class="col">
+                  
+            <div class="bg-info" style="height:150px;width:100px;">
+            </div>  
+        </div>
+
+        <div class="col">
+                  
+            <div class="bg-primary" style="height:150px;width:100px;">
+            </div>  
+        </div>
+
+        <div class="col">
+            <div class="bg-danger" style="height:150px;width:100px;">
+            </div>  
+        </div>
     </div>
 
-    <div class="row">
-        <div class="col">
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>  
-          <div class="col">
-               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-               <iframe width="250px" height="150px" src="https://www.youtube.com/embed/Xt5ZS12_3rE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
-          </div>     
+
+    <div class="header" style="margin-left:80px;margin-top:20px;">
+        <h2 class="h2" style="text-transform:uppercase;color:#666;font-weight:700">tecnologia e games</h2>
+        <div style="width:5%;border-bottom:4px solid #ccc;"></div>
+        <div style="border-bottom:2px solid #ccc;margin-bottom:1rem;width:94.4%;"></div>
+    </div>  
+    <div class="row" style="margin-right:49px;">
+        <div class="col" style="margin-left:78px;">
+                    <div style="width:100%;height:100px;background-color:#000"></div>
+                    <a class="text-muted" style="text-decoration:none;" href=""><h5>Chrome salva tudo que você faz; veja como apagar</h5></a>
         </div>
-</div>
-                
-        </div>  
+        
+        <div class="col">
+            <div style="width:100%;height:100px;background-color:#000"></div>
+            <a class="text-muted" style="text-decoration:none;" href=""><h5>Grandes jogs ficam mais baratos na semana; confira</h5></a>
+        </div>
+        
+        <div class="col">
+            <div style="width:100%;height:100px;background-color:#000"></div>
+            <a class="text-muted" style="text-decoration:none;" href=""><h5>Tinder: dicas ajudam você a se dar bem no aplicativo</h5></a>
+        </div>
+        
+        <div class="col">
+            <div style="width:100%;height:100px;background-color:#000"></div>
+            <a class="text-muted" style="text-decoration:none;" href=""><h5>Novo carro voador que faz 250km/h é revelado; veja</h5></a>
+        </div>
     </div>
+
+
+</div>
 
 
 
