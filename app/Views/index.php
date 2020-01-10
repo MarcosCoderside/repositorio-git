@@ -364,24 +364,158 @@
     <div class="row" style="margin-right:49px;">
         <div class="col" style="margin-left:78px;">
                     <div style="width:100%;height:100px;background-color:#000"></div>
-                    <a class="text-muted" style="text-decoration:none;" href=""><h5>Chrome salva tudo que você faz; veja como apagar</h5></a>
+                    <a class="text-muted" style="text-decoration:none;" href="">
+                    <h5 style="font-size:14px;text-align:center;padding:1px;">Chrome salva tudo que você faz; veja como apagar</h5></a>
         </div>
         
         <div class="col">
             <div style="width:100%;height:100px;background-color:#000"></div>
-            <a class="text-muted" style="text-decoration:none;" href=""><h5>Grandes jogs ficam mais baratos na semana; confira</h5></a>
+            <a class="text-muted" style="text-decoration:none;" href="">
+            <h5 style="font-size:14px;text-align:center;padding:1px;">
+            Grandes jogs ficam mais baratos na semana; confira</h5></a>
         </div>
         
         <div class="col">
             <div style="width:100%;height:100px;background-color:#000"></div>
-            <a class="text-muted" style="text-decoration:none;" href=""><h5>Tinder: dicas ajudam você a se dar bem no aplicativo</h5></a>
+            <a class="text-muted" style="text-decoration:none;" href="">
+            <h5 style="font-size:14px;text-align:center;padding:1px;">
+            Tinder: dicas ajudam você a se dar bem no aplicativo
+            </h5></a>
         </div>
         
         <div class="col">
             <div style="width:100%;height:100px;background-color:#000"></div>
-            <a class="text-muted" style="text-decoration:none;" href=""><h5>Novo carro voador que faz 250km/h é revelado; veja</h5></a>
+            <a class="text-muted" style="text-decoration:none;" href="">
+            <h5 style="font-size:14px;text-align:center;padding:1px;">
+            Novo carro voador que faz 250km/h é revelado; veja</h5></a>
         </div>
     </div>
+
+     <div class="row" style="margin-top:20px;margin-left:60px;margin-right:60px;">
+            <div class="col">
+                <header style="color:#333;font-size:28px;font-weight:700;text-transform:uppercase;">
+                    Decoração
+                    <div style="width:10%;border-bottom:4px solid #ff8100;margin-top:10px"></div>
+                    <div style="border-bottom:2px solid #ccc;margin-bottom:1rem;width:99.7%;"></div>
+                </header>  
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+
+                <media class="media" style="margin-bottom:10px;" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+            </div>
+
+            <div class="col">
+                <header style="color:#333;font-size:28px;font-weight:700;text-transform:uppercase;">
+                    Carnaval
+                    <div style="width:10%;border-bottom:4px solid #ff8100;margin-top:10px"></div>
+                    <div style="border-bottom:2px solid #ccc;margin-bottom:1rem;width:102.5%;"></div>
+                </header>  
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+
+                <media class="media" style="margin-bottom:10px;">
+                    <div style="height:100px; width:250px;background-color:#000;"></div>
+                    <div class="media-body">
+                    <div style="margin-top:24px;">
+                        <h5 class="h5" style="font-size:12px;font-weight:bold;text-transform:uppercase;padding-left:20px;">obra de arte e peças de design</h5>
+                        <h4 class="h4" style="font-size:1rem;font-weight:bold;padding-left:20px;color:#ff8100">Aloke e Romana abrem dúplex de 370m após 1 ano de obras</h4>
+                    </div>
+                    </div>
+                
+                </media>
+
+ 
+
+            </div>
+     </div>           
 
 
 </div>
